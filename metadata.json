@@ -1,0 +1,6 @@
+{
+  "name": "Health Home Care Services",
+  "description": "Compassionate home nursing, elderly care, physiotherapy support, and patient recovery services at home in Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
